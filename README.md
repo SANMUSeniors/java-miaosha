@@ -1,5 +1,4 @@
 ⾼性能⾼并发Java秒杀系统
-负责⼈ 2018年12⽉ - 2019年2⽉
 使⽤Spring BOOt搭建环境，集成Thymeleaf，编写Result进⾏结果封装，集成Mybatis+Druid作为
 数据访问的ORM。
 对⽤⼾登录明⽂密码的两次MD5处理，实现分布式Session存储⽤⼾信息，编写了全局异常处理器。
